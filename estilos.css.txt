@@ -1,6 +1,5 @@
-h1 {
-font-family: sans-serif;
+body {
+width: 50%;
+margin: auto;
 }
-li {
-font-family: monospace;
-}
+/* resto do css */

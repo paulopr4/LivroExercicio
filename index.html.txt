@@ -7,8 +7,8 @@
 </head>
 <!-- início do arquivo ... -->
 <head>
-<!-- tags meta ... -->
-<link rel="stylesheet" href="estilos.css">
+<!-- tags meta e link ... -->
+<title>Móveis Ecológicos</title>
 </head>
 <!-- restante do arquivo ... -->
 <body>
