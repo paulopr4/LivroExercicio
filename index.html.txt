@@ -26,6 +26,15 @@
 <li>Móveis de garrafas PET</li>
 <li>Móveis de latinhas de alumínio</li>
 <li>Móveis de papelão</li>
+<!-- início do arquivo ... -->
+<head>
+<!-- tags meta, link e title ... -->
+<script src="principal.js"></script>
+</head>
+<body>
+<!-- tag h1 ... -->
+<h2 id="mensagem"></h2>
+<!-- restante do arquivo ... -->
 </ul>
 </body>
 </html>
